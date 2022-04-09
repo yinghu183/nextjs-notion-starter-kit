@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'edfed918dd0f42eaa51a3e50ce914d14',
+  rootNotionPageId: '8082a1c9b1034ff499dba0539cdb0964',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '王秋晰的阅读清单',
-  domain: 'https://kamilah.notion.site/944a97d178424d45846e2e71862d951b?v=edfed918dd0f42eaa51a3e50ce914d14',
+  domain: 'https://kamilah.notion.site/8082a1c9b1034ff499dba0539cdb0964',
   author: 'Kamilah',
 
   // open graph metadata (optional)
