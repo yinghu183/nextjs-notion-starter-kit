@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'yinghu183',
   github: 'yinghu183',
-  zhihu: '头陀第一',
+  zhihu: 'wu-gou-9',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
