@@ -2,15 +2,15 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'bbb18ea49b404fd9bdbbbd1dd4056c11?v=68b63c2628f4409e84907a33d8d2f060',
+  rootNotionPageId: 'fd700c9e28174cb1892c81df2aa31a0e',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '王秋晰的作品集',
-  domain: 'https://kamilah.notion.site/bbb18ea49b404fd9bdbbbd1dd4056c11?v=68b63c2628f4409e84907a33d8d2f060',
+  name: '',
+  domain: 'https://kamilah.notion.site/fd700c9e28174cb1892c81df2aa31a0e',
   author: 'Kamilah',
 
   // open graph metadata (optional)
