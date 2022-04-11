@@ -17,8 +17,8 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
+  twitter: 'yinghu183',
+  github: 'yinghu183',
   linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
